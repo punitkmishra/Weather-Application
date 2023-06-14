@@ -1,2 +1,6 @@
 # Weather-Application
-This app will be do weather forcast
+
+This will show weather forcast :)
+
+## Note
+Please enable location access in setting of this application (Manually)
